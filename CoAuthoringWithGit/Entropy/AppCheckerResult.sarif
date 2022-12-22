@@ -14,19 +14,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Employee ID_DataCard1'.DataCardValue2.AccessibleLabel"
+                  "fullyQualifiedName": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Employee ID_DataCard1'.DataCardValue2.AccessibleLabel",
+                  "fullyQualifiedName": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "Depenadant Add Edit Screen",
-                "type": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Employee ID_DataCard1'.DataCardValue2"
+                "module": "Self Policy Screen",
+                "type": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails"
               }
             }
           ],
@@ -44,229 +44,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Dependant Name_DataCard1'.DataCardValue3.AccessibleLabel"
+                  "fullyQualifiedName": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Dependant Name_DataCard1'.DataCardValue3.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Depenadant Add Edit Screen",
-                "type": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Dependant Name_DataCard1'.DataCardValue3"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Dependant Gender_DataCard1'.Radio1.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Dependant Gender_DataCard1'.Radio1.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Depenadant Add Edit Screen",
-                "type": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Dependant Gender_DataCard1'.Radio1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Dependant DOB_DataCard1'.DatePicker1.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Dependant DOB_DataCard1'.DatePicker1.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Depenadant Add Edit Screen",
-                "type": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Dependant DOB_DataCard1'.DatePicker1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Policy Type_DataCard1'.DataCardValue6.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Policy Type_DataCard1'.DataCardValue6.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Depenadant Add Edit Screen",
-                "type": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Policy Type_DataCard1'.DataCardValue6"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Relationship Type_DataCard1'.Dropdown1.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Relationship Type_DataCard1'.Dropdown1.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Depenadant Add Edit Screen",
-                "type": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Relationship Type_DataCard1'.Dropdown1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.Attachments_DataCard1.DataCardValue8.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.Attachments_DataCard1.DataCardValue8.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Depenadant Add Edit Screen",
-                "type": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.Attachments_DataCard1.DataCardValue8"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon1.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon1.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Depenadant Add Edit Screen",
-                "type": "'Depenadant Add Edit Screen'.Icon1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon1.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon1.TabIndex",
+                  "fullyQualifiedName": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "Depenadant Add Edit Screen",
-                "type": "'Depenadant Add Edit Screen'.Icon1"
+                "module": "Self Policy Screen",
+                "type": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails"
               }
             }
           ],
@@ -284,19 +74,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon4.AccessibleLabel"
+                  "fullyQualifiedName": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails.cmbSumInsuredSelfPolicy.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon4.AccessibleLabel",
+                  "fullyQualifiedName": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails.cmbSumInsuredSelfPolicy.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "Depenadant Add Edit Screen",
-                "type": "'Depenadant Add Edit Screen'.Icon4"
+                "module": "Self Policy Screen",
+                "type": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails.cmbSumInsuredSelfPolicy"
               }
             }
           ],
@@ -314,19 +104,49 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon4.TabIndex"
+                  "fullyQualifiedName": "'Self Policy Screen'.Icon1_2.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon4.TabIndex",
+                  "fullyQualifiedName": "'Self Policy Screen'.Icon1_2.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Self Policy Screen",
+                "type": "'Self Policy Screen'.Icon1_2"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Self Policy Screen'.Icon1_2.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Self Policy Screen'.Icon1_2.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "Depenadant Add Edit Screen",
-                "type": "'Depenadant Add Edit Screen'.Icon4"
+                "module": "Self Policy Screen",
+                "type": "'Self Policy Screen'.Icon1_2"
               }
             }
           ],
@@ -344,19 +164,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon3.AccessibleLabel"
+                  "fullyQualifiedName": "'Self Policy Screen'.Icon3_2.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon3.AccessibleLabel",
+                  "fullyQualifiedName": "'Self Policy Screen'.Icon3_2.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "Depenadant Add Edit Screen",
-                "type": "'Depenadant Add Edit Screen'.Icon3"
+                "module": "Self Policy Screen",
+                "type": "'Self Policy Screen'.Icon3_2"
               }
             }
           ],
@@ -374,19 +194,349 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon3.TabIndex"
+                  "fullyQualifiedName": "'Self Policy Screen'.Icon3_2.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon3.TabIndex",
+                  "fullyQualifiedName": "'Self Policy Screen'.Icon3_2.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "Depenadant Add Edit Screen",
-                "type": "'Depenadant Add Edit Screen'.Icon3"
+                "module": "Self Policy Screen",
+                "type": "'Self Policy Screen'.Icon3_2"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Depandant Policy Screen",
+                "type": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "Depandant Policy Screen",
+                "type": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.editDepDetails.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.editDepDetails.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Depandant Policy Screen",
+                "type": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.editDepDetails"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.editDepDetails.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.editDepDetails.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "Depandant Policy Screen",
+                "type": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.editDepDetails"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon1_1.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon1_1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Depandant Policy Screen",
+                "type": "'Depandant Policy Screen'.Icon1_1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon1_1.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon1_1.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "Depandant Policy Screen",
+                "type": "'Depandant Policy Screen'.Icon1_1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon2.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon2.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Depandant Policy Screen",
+                "type": "'Depandant Policy Screen'.Icon2"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon2.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon2.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "Depandant Policy Screen",
+                "type": "'Depandant Policy Screen'.Icon2"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.cmbSumInsuredDependantPolicy.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.cmbSumInsuredDependantPolicy.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Depandant Policy Screen",
+                "type": "'Depandant Policy Screen'.cmbSumInsuredDependantPolicy"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon3_1.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon3_1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Depandant Policy Screen",
+                "type": "'Depandant Policy Screen'.Icon3_1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon3_1.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon3_1.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "Depandant Policy Screen",
+                "type": "'Depandant Policy Screen'.Icon3_1"
               }
             }
           ],
@@ -867,6 +1017,396 @@
                 "member": "TabIndex",
                 "module": "Home Screen",
                 "type": "'Home Screen'.icnArrowViewEmp"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Employee ID_DataCard1'.DataCardValue2.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Employee ID_DataCard1'.DataCardValue2.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Depenadant Add Edit Screen",
+                "type": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Employee ID_DataCard1'.DataCardValue2"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Dependant Name_DataCard1'.DataCardValue3.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Dependant Name_DataCard1'.DataCardValue3.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Depenadant Add Edit Screen",
+                "type": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Dependant Name_DataCard1'.DataCardValue3"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Dependant Gender_DataCard1'.Radio1.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Dependant Gender_DataCard1'.Radio1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Depenadant Add Edit Screen",
+                "type": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Dependant Gender_DataCard1'.Radio1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Dependant DOB_DataCard1'.DatePicker1.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Dependant DOB_DataCard1'.DatePicker1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Depenadant Add Edit Screen",
+                "type": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Dependant DOB_DataCard1'.DatePicker1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Policy Type_DataCard1'.DataCardValue6.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Policy Type_DataCard1'.DataCardValue6.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Depenadant Add Edit Screen",
+                "type": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Policy Type_DataCard1'.DataCardValue6"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Relationship Type_DataCard1'.Dropdown1.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Relationship Type_DataCard1'.Dropdown1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Depenadant Add Edit Screen",
+                "type": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.'Relationship Type_DataCard1'.Dropdown1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.Attachments_DataCard1.DataCardValue8.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.Attachments_DataCard1.DataCardValue8.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Depenadant Add Edit Screen",
+                "type": "'Depenadant Add Edit Screen'.ConDependantPolicy_1.ConMainContSelfPolicy_2.FormAddEditDependantDetails.Attachments_DataCard1.DataCardValue8"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon1.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Depenadant Add Edit Screen",
+                "type": "'Depenadant Add Edit Screen'.Icon1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon1.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon1.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "Depenadant Add Edit Screen",
+                "type": "'Depenadant Add Edit Screen'.Icon1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon4.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon4.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Depenadant Add Edit Screen",
+                "type": "'Depenadant Add Edit Screen'.Icon4"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon4.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon4.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "Depenadant Add Edit Screen",
+                "type": "'Depenadant Add Edit Screen'.Icon4"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon3.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon3.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Depenadant Add Edit Screen",
+                "type": "'Depenadant Add Edit Screen'.Icon3"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon3.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depenadant Add Edit Screen'.Icon3.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "Depenadant Add Edit Screen",
+                "type": "'Depenadant Add Edit Screen'.Icon3"
               }
             }
           ],
@@ -1514,546 +2054,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Self Policy Screen",
-                "type": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "Self Policy Screen",
-                "type": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails.cmbSumInsuredSelfPolicy.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails.cmbSumInsuredSelfPolicy.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Self Policy Screen",
-                "type": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails.cmbSumInsuredSelfPolicy"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Self Policy Screen'.Icon1_2.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Self Policy Screen'.Icon1_2.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Self Policy Screen",
-                "type": "'Self Policy Screen'.Icon1_2"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Self Policy Screen'.Icon1_2.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Self Policy Screen'.Icon1_2.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "Self Policy Screen",
-                "type": "'Self Policy Screen'.Icon1_2"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Self Policy Screen'.Icon3_2.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Self Policy Screen'.Icon3_2.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Self Policy Screen",
-                "type": "'Self Policy Screen'.Icon3_2"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Self Policy Screen'.Icon3_2.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Self Policy Screen'.Icon3_2.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "Self Policy Screen",
-                "type": "'Self Policy Screen'.Icon3_2"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Depandant Policy Screen",
-                "type": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "Depandant Policy Screen",
-                "type": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.editDepDetails.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.editDepDetails.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Depandant Policy Screen",
-                "type": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.editDepDetails"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.editDepDetails.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.editDepDetails.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "Depandant Policy Screen",
-                "type": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.editDepDetails"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon1_1.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon1_1.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Depandant Policy Screen",
-                "type": "'Depandant Policy Screen'.Icon1_1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon1_1.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon1_1.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "Depandant Policy Screen",
-                "type": "'Depandant Policy Screen'.Icon1_1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon2.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon2.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Depandant Policy Screen",
-                "type": "'Depandant Policy Screen'.Icon2"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon2.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon2.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "Depandant Policy Screen",
-                "type": "'Depandant Policy Screen'.Icon2"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.cmbSumInsuredDependantPolicy.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.cmbSumInsuredDependantPolicy.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Depandant Policy Screen",
-                "type": "'Depandant Policy Screen'.cmbSumInsuredDependantPolicy"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon3_1.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon3_1.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Depandant Policy Screen",
-                "type": "'Depandant Policy Screen'.Icon3_1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon3_1.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.Icon3_1.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "Depandant Policy Screen",
-                "type": "'Depandant Policy Screen'.Icon3_1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "App.varEmail"
                 }
               ],
@@ -2078,6 +2078,96 @@
           },
           "ruleId": "app-UnusedVariables",
           "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails.Items",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "Self Policy Screen",
+                "type": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "app-InefficientDelayLoading",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.Items"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.Items",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "Items",
+                "module": "Depandant Policy Screen",
+                "type": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "app-InefficientDelayLoading",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.cmbSumInsuredDependantPolicy.DefaultSelectedItems"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Depandant Policy Screen'.cmbSumInsuredDependantPolicy.DefaultSelectedItems",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "DefaultSelectedItems",
+                "module": "Depandant Policy Screen",
+                "type": "'Depandant Policy Screen'.cmbSumInsuredDependantPolicy"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "app-InefficientDelayLoading",
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -2217,96 +2307,6 @@
                 "member": "Image",
                 "module": "Create Edit Employee Details Screen",
                 "type": "'Create Edit Employee Details Screen'.UploadedImage8"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "app-InefficientDelayLoading",
-          "ruleIndex": 3
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails.Items"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails.Items",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "Items",
-                "module": "Self Policy Screen",
-                "type": "'Self Policy Screen'.ConSelfPolicy.ConMainContSelfPolicy.galSelfPolicyDetails"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "app-InefficientDelayLoading",
-          "ruleIndex": 3
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.Items"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails.Items",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "Items",
-                "module": "Depandant Policy Screen",
-                "type": "'Depandant Policy Screen'.ConDependantPolicy.ConMainContSelfPolicy_1.galDependantDetails"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "app-InefficientDelayLoading",
-          "ruleIndex": 3
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.cmbSumInsuredDependantPolicy.DefaultSelectedItems"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Depandant Policy Screen'.cmbSumInsuredDependantPolicy.DefaultSelectedItems",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "DefaultSelectedItems",
-                "module": "Depandant Policy Screen",
-                "type": "'Depandant Policy Screen'.cmbSumInsuredDependantPolicy"
               }
             }
           ],
