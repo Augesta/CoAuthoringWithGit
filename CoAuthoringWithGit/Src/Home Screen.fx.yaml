@@ -102,3 +102,10 @@
         Y: =654
         ZIndex: =9
 
+    Button3 As button:
+        Height: =67
+        Text: ="Button"
+        X: =773
+        Y: =132
+        ZIndex: =10
+
