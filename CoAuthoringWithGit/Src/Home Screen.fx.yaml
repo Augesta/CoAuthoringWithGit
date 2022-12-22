@@ -97,3 +97,8 @@
         Y: =640
         ZIndex: =8
 
+    Timer1 As timer:
+        X: =1098
+        Y: =654
+        ZIndex: =9
+
